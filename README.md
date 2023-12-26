@@ -39,8 +39,7 @@
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="C:\Users\priya\Downloads
-" align="center" height="" width="" />
+<img src="https://img.freepik.com/premium-vector/developer-website-create-black-white-error-404-flash-message-african-american-programmer-working-monochrome-empty-state-ui-design-page-found-cartoon-image-vector-flat-illustration-concept_151150-16589.jpg" align="center" height="400px" width="400px" />
 </div>  
 
 
@@ -71,11 +70,11 @@
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=priyaxsinglaa&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavanand&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=priyaxsinglaa&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
