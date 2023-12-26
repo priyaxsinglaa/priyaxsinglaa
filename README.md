@@ -21,7 +21,7 @@
 
 
 ### Glad to see you here!  
-**I am active coder working on my coding skills each day. **  
+**I am active coder working on my coding skills every single day. **  
   
 
 <br/>  
